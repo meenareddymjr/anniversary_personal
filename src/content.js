@@ -4,9 +4,9 @@ export const content = {
   heroPhoto: '', // e.g. '/photos/us.jpg'
   dedication: 'Ten years. A thousand little moments. And my favourite part is still you.',
   memories: [
-    { title: 'Where it all began', caption: 'Too early to realise what love is...', photo: '/photos/first.jpg' },
-    { title: 'A favourite little moment', caption: 'Enjoy every moment we have together...', photo: '/photos/second.jpg' },
-    { title: 'Somewhere, together', caption: '02.10.2019 a beautiful day....', photo: '/photos/third.jpg' }
+    { title: 'Where it all began', caption: 'Too early to realise what love is...', photo: '/anniversary_personal/photos/first.jpg' },
+    { title: 'A favourite little moment', caption: 'Enjoy every moment we have together...', photo: '/anniversary_personal/photos/second.jpg' },
+    { title: 'Somewhere, together', caption: '02.10.2019 a beautiful day....', photo: '/anniversary_personal/photos/third.jpg' }
   ],
   // Editable quiz: answer is the correct option's index (0 = first, 1 = second, etc.).
   // Replace or add questions, options, and notes below with your own memories.
