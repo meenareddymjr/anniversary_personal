@@ -15,6 +15,6 @@ export const content = {
     { question: 'When is our first kiss and where was it?', options: ['6 November 2016, Tirupati', '6 November 2017, Rajampet', '6 November 2016, Tirumala Steps', '4 October 2017, Madanapalle'], answer: 2, note: 'A date that will always belong to us.' },
     { question: 'Do I have a crush on you before you knew it?', options: ['Yes', 'No'], answer: 0, note: 'Before you realised it, I was already yours. A lifetime to go.' }
   ],
-  letter: 'My Bujji,\n\nTen years later, you are still my favourite person.\n\nAs per proposal date it is ten years but it is more than ten years as I started liking you before you knew it — the time we spend, the memories we make, the hurdles we overcome.\n\nHere’s to our next chapter. Together.',
+  letter: 'My Bujji,\n\nTen years later, you are still my favourite person.\n\nAs per proposal date it is ten years but it is more than ten years as I started liking you before you knew it — the time we spend, the memories we make, the hurdles we overcome.\n\nHere’s to our next chapter. Together. I LOVE YOU BUJJI',
   signature: 'With all my love Meena Vishnu',
 }
